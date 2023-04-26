@@ -1,0 +1,16 @@
+body{
+    color: aqua;
+    background-color:rgba(122, 39, 206, 0.711) ;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+#nombre_objetos{
+    color: blue;
+}
+#camara{
+    border: 2px dashed brown;
+    width: 350px;
+    height:300px;
+}
